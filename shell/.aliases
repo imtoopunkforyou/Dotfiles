@@ -1,0 +1,25 @@
+# Fetch IP info
+# https://github.com/imtoopunkforyou/myip
+alias myip="$HOME/Scripts/myip.sh"
+
+# Quit
+alias q="exit 0"
+
+# Syntax highlighting
+# https://github.com/sharkdp/bat
+alias cat="bat"
+
+# clean shell
+alias cl="clear"
+
+# Translate
+# https://github.com/soimort/translate-shell
+alias trans="trans :ru -b"
+
+# Copying to the clipboard
+# https://github.com/astrand/xclip
+alias xclip="xclip -sel clip"
+
+# Password generator
+# https://github.com/imtoopunkforyou/password-generator
+alias genpass="$HOME/Scripts/password-generator.sh --length"
