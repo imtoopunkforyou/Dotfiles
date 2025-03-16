@@ -23,3 +23,6 @@ alias xclip="xclip -sel clip"
 # Password generator
 # https://github.com/imtoopunkforyou/password-generator
 alias genpass="$HOME/Scripts/password-generator.sh --length"
+
+# Docker
+alias doc="docker"
