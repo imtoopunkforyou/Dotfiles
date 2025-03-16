@@ -1,4 +1,4 @@
-# 🐧 dotfiles
+# 🐧 Dotfiles
 My configuration of some environments.
 
 ## ⚠️ Warning
