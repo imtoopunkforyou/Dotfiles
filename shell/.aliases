@@ -9,7 +9,7 @@ alias q="exit 0"
 # https://github.com/sharkdp/bat
 alias cat="bat"
 
-# clean shell
+# Clean shell
 alias cl="clear"
 
 # Translate
