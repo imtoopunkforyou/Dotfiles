@@ -7,7 +7,7 @@ alias q="exit 0"
 
 # Syntax highlighting
 # https://github.com/sharkdp/bat
-alias cat="bat -p"
+alias cat="bat --paging never --decorations never --plain"
 
 # Clean shell
 alias cl="clear"
