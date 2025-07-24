@@ -7,7 +7,7 @@ alias q="exit 0"
 
 # Syntax highlighting
 # https://github.com/sharkdp/bat
-alias cat="bat"
+alias cat="bat -p"
 
 # Clean shell
 alias cl="clear"
@@ -18,7 +18,7 @@ alias trans="trans :ru -b"
 
 # Copying to the clipboard
 # https://github.com/astrand/xclip
-alias xclip="xclip -sel clip"
+# alias xclip="xclip -sel clip"
 
 # Password generator
 # https://github.com/imtoopunkforyou/password-generator
